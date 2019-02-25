@@ -1,0 +1,31 @@
+judul	{font-style: bold; 
+		font-size: 100px ;
+		font-family : "Calibri";
+		color: rgb(255, 72, 55);
+		background-color: white;
+		text-align: center;
+}
+
+.cerita {font-size: 25px ;
+		font-family : "Arial";
+		color:black;
+		text-align: justify;
+}
+.end	{font-size: 25px ;
+		font-family : "Arial";
+		color:black;
+		text-align: center;
+}
+.kontak	{font-style: bold;
+		font-size: 20px	;
+		font-family : monospace;
+		background-color:white;
+		border-style: ridge;color: rgb(27, 81, 98);
+		border-width: 5px;
+		text-align: center;
+}
+img	{height: 300px;}
+
+body {background-image: url("https://github.com/Iffa123/iffa123.github.io/blob/master/images%20(1).jpg?raw=true");
+		background-repeat: no-repeat;
+		background-size: 1500px;
